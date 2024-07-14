@@ -1,0 +1,11 @@
+int a = 1;
+void something(int a) {
+bool flag = true;
+int[] arr = { 1, 2, 3, 2, 3, 4 };
+while (flag) {
+WriteLine("a");
+int b = 1 + 1;
+flag = false;
+}
+}
+something(a);

@@ -1,0 +1,3 @@
+a 1 = INT
+VOID something a INT(1) VOIDi 10 > M1 NP i i 1 - = KP M1: "a" PRINT b 1 1 + = INT 0 RETURN F
+something a CALL
